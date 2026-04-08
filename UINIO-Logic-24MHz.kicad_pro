@@ -728,6 +728,7 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
+    "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -744,7 +745,7 @@
         "uuid": "36e78e70-c329-4573-ae86-91b42f15e8b3"
       }
     ],
-    "used_designators": "J1-2,Y2,#PWR13,#PWR23,U3,U5",
+    "used_designators": "R1-16,RN1-4",
     "variants": []
   },
   "sheets": [
