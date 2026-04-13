@@ -14276,7 +14276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+		(property "Footprint" "Uinio:USB-C-SMD_TYPEC-304J-BCP16"
 			(at 40.64 135.89 0)
 			(hide yes)
 			(show_name no)

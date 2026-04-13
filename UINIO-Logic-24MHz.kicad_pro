@@ -51,7 +51,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.3
+          "min_clearance": 0.3556
         }
       },
       "diff_pair_dimensions": [
@@ -171,7 +171,7 @@
       ],
       "teardrop_parameters": [
         {
-          "td_allow_use_two_tracks": true,
+          "td_allow_use_two_tracks": false,
           "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
@@ -182,7 +182,7 @@
           "td_width_to_size_filter_ratio": 0.9
         },
         {
-          "td_allow_use_two_tracks": true,
+          "td_allow_use_two_tracks": false,
           "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
@@ -193,7 +193,7 @@
           "td_width_to_size_filter_ratio": 0.9
         },
         {
-          "td_allow_use_two_tracks": true,
+          "td_allow_use_two_tracks": false,
           "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
@@ -556,7 +556,6 @@
         "bus_width": 12,
         "clearance": 0.15,
         "diff_pair_gap": 0.0,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.0,
         "line_style": 0,
         "microvia_diameter": 0.0,
@@ -575,7 +574,6 @@
         "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.0,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.0,
         "line_style": 0,
         "microvia_diameter": 0.0,
